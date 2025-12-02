@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Typing](https://readme-typing-svg.demolab.com?size=28&pause=1000&color=0099CC&width=650&font=Fira+Code&weight=700&lines=Hi+there%2C+I'm+Zo+☯;Currently+student+at+42+School+☯)
+![Typing](https://readme-typing-svg.demolab.com?size=28&pause=1000&color=0099CC&width=650&font=Fira+Code&weight=550&lines=Hi+there%2C+I'm+Zo+☯;Currently+student+at+42+School+☯)
 
 
 
