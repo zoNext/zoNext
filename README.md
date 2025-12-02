@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 
-![Typing](https://readme-typing-svg.demolab.com?size=28&pause=1000&color=006D77&width=650&font=Fira+Code&weight=550&lines=Hi+there%2C+I'm+Zo;Currently+student+at+42+School...)
+![Typing](https://readme-typing-svg.demolab.com?size=28&pause=1000&color=33CCFF&width=650&font=Fira+Code&weight=550&lines=Hi+there%2C+I'm+Zo;Currently+student+at+42+School...)
 
 
 
 
 <!--
-
+006D77
 
 ![Typing](https://readme-typing-svg.demolab.com?size=28&color=003366&width=650&lines=Hi+there%2C+I%27m+Zo;Currently+student+at+42+School+...)
 
