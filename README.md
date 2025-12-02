@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Typing](https://readme-typing-svg.demolab.com?size=28&color=F772A1&width=650&lines=Hi+there%2C+I%27m+Zo;Currently+student+at+42+School+...)
+![Typing](https://readme-typing-svg.demolab.com?size=28&color=FF5733&width=650&lines=Hi+there%2C+I%27m+Zo;Currently+student+at+42+School+...)
 
 
 <!--
