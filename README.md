@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+![Typing](https://readme-typing-svg.demolab.com?size=28&color=00d1b2&width=650&lines=Hi+there%2C+I%27m+Zo;Currently+student+at+42+School)
+
+
 <!--
 **zoNext/zoNext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
